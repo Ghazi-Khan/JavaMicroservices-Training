@@ -2,7 +2,7 @@
 
 Hi Guys,
 I am maintaining this repository for Java-Microservices training!
-If you would like to contribute, please go through the project folder/file naming convention.
+If you would like to contribute, please go through the project folder/file structure & naming convention.
 
 For example, if you would like to work on `Annotation` module.
 
