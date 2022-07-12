@@ -14,3 +14,5 @@ For example, if you would like to work on `Annotation` module.
         <ModuleName-Notes.txt>  (e.g. Annotation-Notes.txt)
         <ModuleName-MCQ.txt>    (e.g. Annotation-MCQ.txt)
         <ModuleName.java>       (e.g. AnnotationDemo.java) (should contain main() method)
+
+> Note:  Please create new `module` inside `JavaMicroservices-Training/Java-Beyond-Basic/JavaBeyondBasicCodeBase/src/com/infy` folder only.
