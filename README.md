@@ -7,7 +7,7 @@ If you would like to contribute, please go through the project folder/file struc
 For example, if you would like to work on `Annotation` module.
 
 ##### Please gothrough the example
-    1. Create a new package as follows, if already doesn't exist
+    1. Create a new package as follows, 
         com.infy.<packagename> (e.g. com.infy.annotation)
 
     2. Inside the package create 3 files as follows, if already don't exist
@@ -15,7 +15,7 @@ For example, if you would like to work on `Annotation` module.
         <ModuleName-MCQ.txt>    (e.g. Annotation-MCQ.txt)
         <ModuleName.java>       (e.g. AnnotationDemo.java) (should contain main() method)
 
-> Note:  Please create new `module` inside `JavaMicroservices-Training/Java-Beyond-Basic/JavaBeyondBasicCodeBase/src/com/infy` folder only.
+> Note:  Please create new `module` inside `JavaMicroservices-Training/Java-Beyond-Basic/JavaBeyondBasicCodeBase/src/com/infy` folder only, if already doesn't exist.
 
 > Refere `modules/packages` [path][path].
 
