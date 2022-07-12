@@ -1,5 +1,27 @@
 
 Q1. What is Serialization ?
-
-=>  The process of writin the state of an object into a file or sending over the n/w
+=>  The process of writin the state of an object into a file or sending over the n/w,
     is nothing but Serialization.
+
+Q2. What is Deserialization ?
+=>  The process of reading the state of an object from a file or n/w is Deserialization.
+
+Q3. Most important classes & methods used in Serialization ?
+=>  The following are the most important calsses & methods used in Serialization:
+
+  Classes :
+    1. FileOutputStream
+    2. ObjectOutputStream
+
+  Methods :
+    1. writeObject()
+
+Q4. Most important classes & methods used in Deserialization ?
+=>  The following are the most important calsses & methods used in Deserialization:
+
+  Classes :
+    1. FileInputStream
+    2. ObjectInputStream
+
+  Methods :
+    1. readObject()
