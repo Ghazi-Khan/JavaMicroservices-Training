@@ -16,3 +16,7 @@ For example, if you would like to work on `Annotation` module.
         <ModuleName.java>       (e.g. AnnotationDemo.java) (should contain main() method)
 
 > Note:  Please create new `module` inside `JavaMicroservices-Training/Java-Beyond-Basic/JavaBeyondBasicCodeBase/src/com/infy` folder only.
+
+> Refere `modules/packages` [path][path].
+
+[path]: <https://github.com/Ghazi-Khan/JavaMicroservices-Training/tree/main/Java-Beyond-Basic/JavaBeyondBasicCodeBase/src/com/infy>
