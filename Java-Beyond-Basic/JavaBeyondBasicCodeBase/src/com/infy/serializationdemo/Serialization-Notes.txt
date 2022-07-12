@@ -1,0 +1,5 @@
+
+Q1. What is Serialization ?
+
+=>  The process of writin the state of an object into a file or sending over the n/w
+    is nothing but Serialization.
