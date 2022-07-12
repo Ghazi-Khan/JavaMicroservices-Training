@@ -1,7 +1,7 @@
 # JavaMicroservices-Training
 
 Hi Guys,
-I am maintaining this repository for Java-Microservices training!
+I am maintaining this repository for **Java-Microservices** training!
 If you would like to contribute, please go through the project folder/file structure & naming conventions.
 
 For example, if you would like to work on `Annotation` module.
